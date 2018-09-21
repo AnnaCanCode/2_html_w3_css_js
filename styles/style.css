@@ -1,0 +1,28 @@
+.w3-white, .w3-black {
+	height: 12.5vw;
+}
+
+#mySidebar {
+	display: none;
+}
+
+.h100 {
+	height: 100%;
+}
+
+.w100 {
+	width: 100%;
+}
+
+.w50 {
+	width: 50px;
+}
+
+.fw900 {
+	font-weight: 900;
+}
+
+.pos-r-b {
+	position:relative;
+	bottom:55px;
+}
